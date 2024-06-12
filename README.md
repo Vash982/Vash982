@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vash982
 - 👀 I’m interested in computer science, hip hop and videogames
-- 🌱 I’m currently learning nothing, just working on some projects
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning game development
+- 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i use NixOS btw
