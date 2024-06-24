@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vash982
 - 👀 I’m interested in computer science, hip hop and videogames
-- 🌱 I’m currently learning game development
+- 🌱 I’m currently learning low level programming
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
